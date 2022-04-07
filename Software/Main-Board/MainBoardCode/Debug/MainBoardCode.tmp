@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR64DA28"</DEVICE>
+ <WORKING_DIR>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.6.76\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.6.76\avrasm\inc\AVR64DA28def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\Debug\MainBoardCode.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MainBoardCode.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MainBoardCode.map</FILE>
+  <FILE>MainBoardCode.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>106</LINE></init>
+  <twiinterrupt><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>232</LINE></twiinterrupt>
+  <readadcresult><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>268</LINE></readadcresult>
+  <runloop><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>203</LINE></runloop>
+  <enabletwi><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>206</LINE></enabletwi>
+  <disabletwi><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>222</LINE></disabletwi>
+  <readtwi><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>245</LINE></readtwi>
+  <writetwi><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>252</LINE></writetwi>
+  <runadc><FILE>C:\Users\kenqu\Desktop\WES\Software\Main-Board\MainBoardCode\main.asm</FILE><LINE>260</LINE></runadc>
+ </LABELS>
+</ASSEMBLER_INFO>
